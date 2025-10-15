@@ -101,10 +101,6 @@
                    style="-fx-font-size: 12px;
                           -fx-padding: 5;"/>
 
-            <!-- Forgot Password Link -->
-            <Hyperlink text="Mot de passe oublié ?"
-                       style="-fx-text-fill: #2e7d32;
-                             -fx-font-size: 12px;"/>
         </VBox>
 
         <!-- Footer -->
